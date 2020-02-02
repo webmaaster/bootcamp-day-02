@@ -6,3 +6,5 @@
 ### Today we share topics on SDLC
 #### GIT & GITHUB
 ##### Thank you
+###### Good-Bye
+
